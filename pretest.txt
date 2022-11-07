@@ -1,0 +1,20 @@
+1. java maupun javascript merupakan bahasa yang dikembangkan dari bahasa lainnya. nama javascript mungkin memang mirip dengan java, tetapi javascript sendiri sama sekali tidak mengandung bahasa pemrograman java. java menggunakan c sedangkan javascript menggunakan C++
+2. int variabel = 7;
+3. public class ProgramHelloWorld {
+	public static void main (String[] args) {
+	System.out.println("Hello World");
+	}
+}
+4. class loop{
+
+    public static void main(String[] argumen){
+
+        for(int i=0; i <= 29; i++){
+            System.out.print( i + " " );
+        }
+
+    }
+
+}
+5. dimulai dari angka 1
+6. 
