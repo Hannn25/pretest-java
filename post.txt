@@ -1,0 +1,15 @@
+1. /tipedata / method(){
+	return/ value;
+   }
+2.   string makanan "ketoprak"
+	int menu1 = 10, menu2 = 20
+
+	public static main void (string[] args){
+	system.out.println("jenis makanan : "+data.pesanan());
+	system.out.println("jumlah menu : "+data.menu() + "pesanan");
+	}
+	
+string pesanan(){
+return makanan;
+	
+

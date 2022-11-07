@@ -1,4 +1,4 @@
-1. java maupun javascript merupakan bahasa yang dikembangkan dari bahasa lainnya. nama javascript mungkin memang mirip dengan java, tetapi javascript sendiri sama sekali tidak mengandung bahasa pemrograman java. java menggunakan c sedangkan javascript menggunakan C++
+1. java ataupun javascript merupakan bahasa yang dikembangkan dari bahasa lainnya. nama javascript mungkin memang mirip dengan java, tetapi javascript sendiri sama sekali tidak mengandung bahasa pemrograman java. java menggunakan c sedangkan javascript menggunakan c++
 2. int variabel = 7;
 3. public class ProgramHelloWorld {
 	public static void main (String[] args) {
